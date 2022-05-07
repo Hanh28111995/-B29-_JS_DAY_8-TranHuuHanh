@@ -1,0 +1,28 @@
+*
+{
+    box-sizing: border-box;
+}
+.form_row
+{
+    margin: 8px 0;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+}
+.form_item
+{
+    box-shadow: 5px 10px 8px #888888;
+    padding: 20px;
+    width: 90%;
+}
+.form_item p
+{
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
+.form_input
+{
+    display: block;
+    width: 100%;
+}
